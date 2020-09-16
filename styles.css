@@ -1,0 +1,55 @@
+h1 {
+    font-family: 'Arial';
+    font-size: 1.2rem;
+    color: hotpink;
+   }
+   p {
+    font-family: 'Roboto';
+    color: rgb(92, 5, 5);
+    line-height: 1.6;
+   }
+   em, li {
+    font-family: 'Roboto';
+    font-style: italic;
+    color: rgb(105, 7, 151);
+   }
+   ul {
+    border: 1px solid #cecfd5;
+    border-radius: 200px;
+    width: 200px;
+    font-family: 'Roboto';
+    font-style: italic;
+    color: rgb(100,100,100);
+   }
+   .round{
+    border-radius: 100px;
+    color: blue;
+    font-size: medium;
+    font-weight: 100;
+    width: 80px;
+    height: 30px;
+   }
+   .light {
+    
+    color: rgb(151, 85, 85);
+    
+    width: 100px;
+    height:100px;
+    margin: 10px;
+    padding: 20px;
+  }
+  .red{
+    background: linear-gradient(to bottom,red 0%,red 50%,#000000 50%,pink 50%,pink 100%);
+    background-color: red;
+    border: 10px solid maroon;
+  }
+  .yellow{
+    background: linear-gradient(to bottom yellow 0%,yellow 50%,#000000 50%,pink 50%,pink 100%);
+    background-color: yellow;
+    border: 10px solid yellowgreen;
+  }
+  .green{
+    background-color: green;
+    border: 10px solid rgb(4, 59, 4);
+  }
+  
